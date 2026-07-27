@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "borough": "NYC Total",
+        "age_group": "Total Population",
+        "1950": "7,891,957",
+        "1950_-_boro_share_of_nyc_total": "100%",
+        "1960": "7,781,984",
+        "1960_-_boro_share_of_nyc_total": "100%",
+        "1970": "7,894,862",
+        "1970_-_boro_share_of_nyc_total": "100%",
+        "1980": "7,071,639",
+        "1980_-_boro_share_of_nyc_total": "100%",
+        "1990": "7,322,564",
+        "1990_-_boro_share_of_nyc_total": "100%",
+        "2000": "8,008,278",
+        "2000_-_boro_share_of_nyc_total": "100%",
+        "2010": "8,242,624",
+        "2010_-_boro_share_of_nyc_total": "100%",
+        "2020": "8,550,971",
+        "2020_-_boro_share_of_nyc_total": "100%",
+        "2030": "8,821,027",
+        "2030_-_boro_share_of_nyc_total": "100%",
+        "2040": "9,025,145",
+        "2040_-_boro_share_of_nyc_total": "100%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "borough": "Bronx",
+        "age_group": "Total Population",
+        "1950": "1,451,277",
+        "1950_-_boro_share_of_nyc_total": "18.39%",
+        "1960": "1,424,815",
+        "1960_-_boro_share_of_nyc_total": "18.31%",
+        "1970": "1,471,701",
+        "1970_-_boro_share_of_nyc_total": "18.64%",
+        "1980": "1,168,972",
+        "1980_-_boro_share_of_nyc_total": "16.53%",
+        "1990": "1,203,789",
+        "1990_-_boro_share_of_nyc_total": "16.44%",
+        "2000": "1,332,650",
+        "2000_-_boro_share_of_nyc_total": "16.64%",
+        "2010": "1,385,108",
+        "2010_-_boro_share_of_nyc_total": "16.8%",
+        "2020": "1,446,788",
+        "2020_-_boro_share_of_nyc_total": "16.92%",
+        "2030": "1,518,998",
+        "2030_-_boro_share_of_nyc_total": "17.22%",
+        "2040": "1,579,245",
+        "2040_-_boro_share_of_nyc_total": "17.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "borough": "Brooklyn",
+        "age_group": "Total Population",
+        "1950": "2,738,175",
+        "1950_-_boro_share_of_nyc_total": "34.7%",
+        "1960": "2,627,319",
+        "1960_-_boro_share_of_nyc_total": "33.76%",
+        "1970": "2,602,012",
+        "1970_-_boro_share_of_nyc_total": "32.96%",
+        "1980": "2,230,936",
+        "1980_-_boro_share_of_nyc_total": "31.55%",
+        "1990": "2,300,664",
+        "1990_-_boro_share_of_nyc_total": "31.42%",
+        "2000": "2,465,326",
+        "2000_-_boro_share_of_nyc_total": "30.78%",
+        "2010": "2,552,911",
+        "2010_-_boro_share_of_nyc_total": "30.97%",
+        "2020": "2,648,452",
+        "2020_-_boro_share_of_nyc_total": "30.97%",
+        "2030": "2,754,009",
+        "2030_-_boro_share_of_nyc_total": "31.22%",
+        "2040": "2,840,525",
+        "2040_-_boro_share_of_nyc_total": "31.47%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "borough": "Manhattan",
+        "age_group": "Total Population",
+        "1950": "1,960,101",
+        "1950_-_boro_share_of_nyc_total": "24.84%",
+        "1960": "1,698,281",
+        "1960_-_boro_share_of_nyc_total": "21.82%",
+        "1970": "1,539,233",
+        "1970_-_boro_share_of_nyc_total": "19.5%",
+        "1980": "1,428,285",
+        "1980_-_boro_share_of_nyc_total": "20.2%",
+        "1990": "1,487,536",
+        "1990_-_boro_share_of_nyc_total": "20.31%",
+        "2000": "1,537,195",
+        "2000_-_boro_share_of_nyc_total": "19.2%",
+        "2010": "1,585,873",
+        "2010_-_boro_share_of_nyc_total": "19.24%",
+        "2020": "1,638,281",
+        "2020_-_boro_share_of_nyc_total": "19.16%",
+        "2030": "1,676,720",
+        "2030_-_boro_share_of_nyc_total": "19.01%",
+        "2040": "1,691,617",
+        "2040_-_boro_share_of_nyc_total": "18.74%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "borough": "Queens",
+        "age_group": "Total Population",
+        "1950": "1,550,849",
+        "1950_-_boro_share_of_nyc_total": "19.65%",
+        "1960": "1,809,578",
+        "1960_-_boro_share_of_nyc_total": "23.25%",
+        "1970": "1,986,473",
+        "1970_-_boro_share_of_nyc_total": "25.16%",
+        "1980": "1,891,325",
+        "1980_-_boro_share_of_nyc_total": "26.75%",
+        "1990": "1,951,598",
+        "1990_-_boro_share_of_nyc_total": "26.65%",
+        "2000": "2,229,379",
+        "2000_-_boro_share_of_nyc_total": "27.84%",
+        "2010": "2,250,002",
+        "2010_-_boro_share_of_nyc_total": "27.3%",
+        "2020": "2,330,295",
+        "2020_-_boro_share_of_nyc_total": "27.25%",
+        "2030": "2,373,551",
+        "2030_-_boro_share_of_nyc_total": "26.91%",
+        "2040": "2,412,649",
+        "2040_-_boro_share_of_nyc_total": "26.73%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "borough": "Staten Island",
+        "age_group": "Total Population",
+        "1950": "191,555",
+        "1950_-_boro_share_of_nyc_total": "2.43%",
+        "1960": "221,991",
+        "1960_-_boro_share_of_nyc_total": "2.85%",
+        "1970": "295,443",
+        "1970_-_boro_share_of_nyc_total": "3.74%",
+        "1980": "352,121",
+        "1980_-_boro_share_of_nyc_total": "4.98%",
+        "1990": "378,977",
+        "1990_-_boro_share_of_nyc_total": "5.18%",
+        "2000": "443,728",
+        "2000_-_boro_share_of_nyc_total": "5.54%",
+        "2010": "468,730",
+        "2010_-_boro_share_of_nyc_total": "5.69%",
+        "2020": "487,155",
+        "2020_-_boro_share_of_nyc_total": "5.7%",
+        "2030": "497,749",
+        "2030_-_boro_share_of_nyc_total": "5.64%",
+        "2040": "501,109",
+        "2040_-_boro_share_of_nyc_total": "5.55%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      }
+    }
+  ]
+}
